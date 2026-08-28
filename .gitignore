@@ -1,0 +1,16 @@
+# Data Architecture Folders (Bronze, Silver, Gold Layers)
+data/
+
+# Environment Variables & DB Credentials
+.env
+
+# Python Cache & Conda Virtual Environment
+__pycache__/
+.conda/
+
+# IDE & Editor Settings
+.vscode/
+
+# OS System Files
+.DS_Store
+Thumbs.db
